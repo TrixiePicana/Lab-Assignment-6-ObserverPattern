@@ -1,12 +1,12 @@
 <h2>Real-time News Subscription Service</h2>
 
-<h4>Background</h4>: You're tasked with designing a real-time news subscription service for a media company. The system needs to notify subscribers about breaking news as soon as it's published by the news agency.
+<h4>Background</h4>:You're tasked with designing a real-time news subscription service for a media company. The system needs to notify subscribers about breaking news as soon as it's published by the news agency.
 
-<h4>Scenario Description</h4>: The system comprises two main components: NewsAgency and Subscriber.
+<h4>Scenario Description</h4>:The system comprises two main components: NewsAgency and Subscriber.
 
-<h4>NewsAgency</h4>: Represents the central hub for publishing news. It maintains a list of subscribers and notifies them whenever new news is available.
+<h4>NewsAgency</h4>:Represents the central hub for publishing news. It maintains a list of subscribers and notifies them whenever new news is available.
 
-<h4>Subscriber</h4>: Represents users or entities subscribed to the news service. Subscribers receive immediate notifications about any breaking news published by the agency.
+<h4>Subscriber</h4>:Represents users or entities subscribed to the news service. Subscribers receive immediate notifications about any breaking news published by the agency.
 
 <h2>Requirements:</h2>
 
